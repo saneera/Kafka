@@ -57,3 +57,23 @@ Key : Producers specify a key, indicating that a messages will go to the same pa
 Consumer Group : To consume multiple consumers aren't read the same message, consumer groups map reads to consumers 
 
 
+### Brokers and Clusters
+
+#### Brokers
+Servers in Kafka are called Brokers, and are where the data processing happens for messages. The Brokers are able to evenly distribute partitions within a topic and apply replication to account for broker failure. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
