@@ -37,15 +37,15 @@ The ID will increment indinetely (never start over at zero)
 It is randomely assigned to a partions, unless a key is provided
 
 
-## Producers and Consumers
+### Producers and Consumers
 
-### Producers
+#### Producers
 
 Producers are clients,that writes the data to the kafka cluster in order to eventually get consumed
 eg : Activity Traking, Log Aggregation
 
 
-### Consumers
+#### Consumers
 
 consumer is the application that consumes or read the message. 
 The consumer subscribe to one or more topics and read the messages in the order in which they were produced.
