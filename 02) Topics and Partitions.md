@@ -4,7 +4,7 @@ Messages in Kafka are called Topics. Topics are divided into partions with each 
 
 
 When the message is written
-By default it is kep for one week
+By default it is kept for one week
 
 It cannot be altered or changed in anyway
 
